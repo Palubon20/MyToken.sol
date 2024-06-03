@@ -1,3 +1,11 @@
+MyToken
+
+This Solidity code defines a smart contract called MyToken that implements a basic token system on the Ethereum blockchain. This contract outlines a simple token management system, suitable for learning and basic applications on the Ethereum blockchain.
+
+DESCRIPTION
+
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract provides basic functionality to mint and burn tokens. The total supply of tokens and individual balances are tracked and updated accordingly. The burn function includes a safeguard to prevent burning more tokens than are available in an address's balance.
+
 MIT License
 
 Copyright (c) 2023 MetacrafterChris
